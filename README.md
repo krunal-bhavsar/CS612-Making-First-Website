@@ -1,1 +1,1 @@
-# CS612-Making-First-Website
+MY_STATIC_WEBSITE
